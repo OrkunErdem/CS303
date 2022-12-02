@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/orkun/projects/OrkunErdemTermProject20701/mytest_isim_beh.exe" -prj "C:/Users/orkun/projects/OrkunErdemTermProject20701/mytest_beh.prj" "work.mytest" "work.glbl" 

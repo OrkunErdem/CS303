@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="2725" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Size mismatch between case item and case selector.
+</msg>
+
+<msg type="warning" file="Xst" num="2725" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">58</arg>: Size mismatch between case item and case selector.
+</msg>
+
+<msg type="warning" file="Xst" num="2725" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">68</arg>: Size mismatch between case item and case selector.
+</msg>
+
+<msg type="warning" file="Xst" num="2725" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">73</arg>: Size mismatch between case item and case selector.
+</msg>
+
+<msg type="warning" file="Xst" num="2725" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">281</arg>: Size mismatch between case item and case selector.
+</msg>
+
+<msg type="warning" file="Xst" num="2725" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">486</arg>: Size mismatch between case item and case selector.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[63]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[62]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[61]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[60]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[59]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[58]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[57]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[56]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[55]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[54]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[53]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[52]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[51]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[50]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[49]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[48]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[47]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[46]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[45]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[44]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[43]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[42]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[41]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[40]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[39]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[38]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[37]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[36]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[35]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[34]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[33]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[32]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[31]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[30]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[29]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[28]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[27]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[26]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[25]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[24]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[23]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[22]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[21]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[20]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[19]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[18]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[17]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[16]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[15]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[14]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[13]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[12]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[11]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[10]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[9]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[8]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[7]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[6]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[5]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[4]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[3]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[2]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[1]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">sentMsg[0]</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">currentstate</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">statusMsg</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+<msg type="error" file="Xst" num="899" delta="old" >&quot;<arg fmt="%s" index="1">phone.v</arg>&quot; line <arg fmt="%d" index="2">49</arg>: The logic for &lt;<arg fmt="%s" index="3">counter</arg>&gt; does not match a known FF or Latch template. The description style you are using to describe a register or latch is not supported in the current software release.
+</msg>
+
+</messages>
+
